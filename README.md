@@ -1,6 +1,3 @@
-> # Development_log
-### 개발 일지
-
 > # Kritias
 #### 디펜스 게임 개발
 
