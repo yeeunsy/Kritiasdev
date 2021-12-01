@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/LoginScene.unity
+    guid: 8043106d088e94046b676780d655135b
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/LoadingScene.unity
+    guid: b35698d27f3c2414db75deeedf8be45d
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/SkipScene.unity
+    guid: 92b4aec55590bdf4ebfff78a3dd0912b
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/Prolog.unity
+    guid: b9599559a807c404baec192b26c46928
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/TestScene.unity
+    guid: 0ee26af3dfcc4ca4691df827b8c3e5f0
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/Tutorial.unity
+    guid: 70e4cdc55202d3949b3cda0c1f68d08d
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/MainLoadingScene.unity
+    guid: 3fb62978584dec948b840007a72ba264
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/MainMenuScene.unity
+    guid: 0fb944af75f162f458e0eae360f2a0fb
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/KingdomEspial.unity
+    guid: 88acdd98f08608c4bae43307217f1191
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/Loading2Scene.unity
+    guid: 1228dc0598e262c46bb122a06297c8f1
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/SceneScripts/Scenes/GameOver.unity
+    guid: bcc4e95949d4c7742af1078288342b1b
+  m_configObjects: {}
